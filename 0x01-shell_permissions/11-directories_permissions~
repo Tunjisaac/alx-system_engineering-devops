@@ -1,2 +1,2 @@
 #!/bin/bash
-suco chmod -R .*/
+suco chmod 755 -R .*/
